@@ -26,8 +26,8 @@ Setup Instructions
        - Update registration information.
        - Delete a registration.
        - Exit the application.
-       Follow the prompts to perform the desired operation.
 
+   Follow the prompts to perform the desired operation.
 
 
 If you have any questions or encounter any issues,please let me know.Thanks in advance!!
