@@ -21,11 +21,11 @@ Setup Instructions
 5. Run the Application
     Run the Python script (crud.py) to start the registration system:
        Upon running the application, you will be presented with a menu where you can choose various options:
-           - Create a new registration.
-           - Read existing registration details.
-           - Update registration information.
-           - Delete a registration.
-           - Exit the application.
+            - Create a new registration.
+            - Read existing registration details.
+            - Update registration information.
+            - Delete a registration.
+            - Exit the application.
        Follow the prompts to perform the desired operation.
 
 
